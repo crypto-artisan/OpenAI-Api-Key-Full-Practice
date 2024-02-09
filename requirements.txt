@@ -1,0 +1,3 @@
+python-dotenv
+langchain==0.1.4
+openai==1.10.0

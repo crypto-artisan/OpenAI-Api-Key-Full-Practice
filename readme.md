@@ -6,3 +6,11 @@
 ## speech-to-text
 ## image-to-text (vision)
 ## moderation
+
+# Get started
+``````
+# bash
+pip install -r requirements.txt
+
+python main.py
+``````
